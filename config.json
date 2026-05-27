@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsrync",
+        "uuid": 15683781,
+        "checksum": "ccgdsi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
